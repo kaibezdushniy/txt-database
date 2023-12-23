@@ -1,0 +1,1 @@
+ConfigDataBase(databasePath=data.txt, dataSeparator=:, linesInDatabaseRow=10):elnur:elnur:elnur:elnur:elnur:elnur:elnur:elnur:elnur:elnur:
